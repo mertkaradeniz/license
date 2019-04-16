@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="textBox1.Text" xml:space="preserve">
+    <value>JM Otobüs Yazılımı v4.0.1.3 Demo Sürüm Sayın Kullanıcı,JM Otobüs Yazılımı v4.0.1.3 yazılımına hoş geldiniz. Bu yazılım otobüs firmaları için yazılmış olup kullanıcı için kolaylıklar sağlayan ve özel olarak geliştiren bir otomasyondur.Yazılım yolcu kayıt, servis yolcusu, bilet işlem, gelen aramalar ve otobüs içi rapor olmak üzere 6 ana bölüm vardır. Programın kullanıcıya tanıdığı en önemli özellik ise Caller ID cihazı denilen cihazı desteklemesidir. Bilgisayar üzerine USB port ile bağlantı yapıldıktan sonra otomatik olarak cihaz aktif olacaktır. Cihaz için daha fazla bilgi için program sahibine başvurunuz.Yazılım içinde firmaya ait araçları ekleyebilir ve bunları sistem üzerinden seçip yolcu için işlem yapabilirsiniz. Oluşturduğunuz araç herhangi bir sorundan dolayı seferi iptal edilmiş ise aracı aktar formundan aracın içinde bulunan tüm yolcuları otomatik bir şekilde başka bir araca aktarabilirsiniz. Caller ID Cihazı aktif olduğunda cihaz telefon isimli kutucuk üzerine arayan müşterinin telefon numarası düşecektir. Eğer gelen aramaları görmek istiyorsanız ‘Gelen Aramalar’ formundan tekrar kontrol edebilirsiniz.Yazılımın genel mantık yapısı 3 kısımdan oluşmaktadır. Eğer yolcu yazıhane üzerinden işlem yaptırıyorsa ‘Ücret Alındı’ olarak işlem yapılarak yolcuya anlık bilet kesimi yapılabilir. Eğer yolcu rezervasyon yaptırmak istiyorsa ‘Rezerve Bilet’ olarak işlem yaparak yolcunun bileti yazıhane (ya da yetkili mekân)  gelerek ancak sisteme tekrar ‘Ücret Alındı’ olarak güncelleme yapıldığında bilet kesme işlemi gerçekleşmektedir. Bunların hiç biri değilse yolcuyu ‘ücretsiz’ olarak belirleyebilirsiniz.Rezerve yolcu eğer bir servisten yararlanmak istiyorsa yolcuya işlem yaptıktan sonra koltuğunun üzerine sağ tıklayıp yolcuyu servise aktarabilirsiniz. Dikkat edilmesi gerekilen nokta ise yolcuyu servise aktardığınızda hangi sefer saatine işlem yapılmışsa o saat için yolcu servise aktarılır. Servis yolcuyu belirtilen yerden alıp otobüs alanına getirildikten sonra tekrar işlemi güncelleyip yolcu için bilet kesebilirsiniz.Yazılım içindeki genel mantığını daha ayrıntılı bir şekilde inceleyip problem yaşadığınız yerlerde program sahibine başvurabilirsiniz.Yazılım başlangıç için demo sürüm olup 1 haftalık bir kullanım sunmaktadır. Lisanslı olarak kullanmak için program sahibine başvurunuz.?????C:\\Windows\\System32\\office_64.bin</value>
+  </data>
+</root>

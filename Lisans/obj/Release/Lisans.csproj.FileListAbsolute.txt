@@ -1,0 +1,8 @@
+C:\Users\JMTech\Desktop\LisanslamaAlgoritması\Lisans\bin\Release\Lisans.dll
+C:\Users\JMTech\Desktop\LisanslamaAlgoritması\Lisans\bin\Release\Lisans.pdb
+C:\Users\JMTech\Desktop\LisanslamaAlgoritması\Lisans\obj\Release\Lisans.dll
+C:\Users\JMTech\Desktop\LisanslamaAlgoritması\Lisans\obj\Release\Lisans.pdb
+C:\Users\jmt_6\Desktop\LisanslamaAlgoritması\Lisans\bin\Release\Lisans.dll
+C:\Users\jmt_6\Desktop\LisanslamaAlgoritması\Lisans\bin\Release\Lisans.pdb
+C:\Users\jmt_6\Desktop\LisanslamaAlgoritması\Lisans\obj\Release\Lisans.dll
+C:\Users\jmt_6\Desktop\LisanslamaAlgoritması\Lisans\obj\Release\Lisans.pdb

@@ -1,0 +1,12 @@
+C:\Users\JMTech\Desktop\LisanslamaAlgoritması\LisanslamaAlgoritması\bin\Pro\LisanslamaAlgoritması.exe
+C:\Users\JMTech\Desktop\LisanslamaAlgoritması\LisanslamaAlgoritması\bin\Pro\LisanslamaAlgoritması.pdb
+C:\Users\JMTech\Desktop\LisanslamaAlgoritması\LisanslamaAlgoritması\bin\Pro\Lisans.dll
+C:\Users\JMTech\Desktop\LisanslamaAlgoritması\LisanslamaAlgoritması\bin\Pro\Lisans.pdb
+C:\Users\JMTech\Desktop\LisanslamaAlgoritması\LisanslamaAlgoritması\obj\Pro\LisanslamaAlgoritması.FrmAna.resources
+C:\Users\JMTech\Desktop\LisanslamaAlgoritması\LisanslamaAlgoritması\obj\Pro\LisanslamaAlgoritması.FrmLisans.resources
+C:\Users\JMTech\Desktop\LisanslamaAlgoritması\LisanslamaAlgoritması\obj\Pro\LisanslamaAlgoritması.FrmKeyCreate.resources
+C:\Users\JMTech\Desktop\LisanslamaAlgoritması\LisanslamaAlgoritması\obj\Pro\LisanslamaAlgoritması.Properties.Resources.resources
+C:\Users\JMTech\Desktop\LisanslamaAlgoritması\LisanslamaAlgoritması\obj\Pro\LisanslamaAlgoritması.csproj.GenerateResource.Cache
+C:\Users\JMTech\Desktop\LisanslamaAlgoritması\LisanslamaAlgoritması\obj\Pro\LisanslamaAlgoritması.exe
+C:\Users\JMTech\Desktop\LisanslamaAlgoritması\LisanslamaAlgoritması\obj\Pro\LisanslamaAlgoritması.pdb
+C:\Users\JMTech\Desktop\LisanslamaAlgoritması\LisanslamaAlgoritması\obj\Pro\LisanslamaAlgoritması.csprojResolveAssemblyReference.cache

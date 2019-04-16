@@ -1,0 +1,4 @@
+C:\Users\JMTech\Desktop\LisanslamaAlgoritması\Lisans\bin\Pro\Lisans.dll
+C:\Users\JMTech\Desktop\LisanslamaAlgoritması\Lisans\bin\Pro\Lisans.pdb
+C:\Users\JMTech\Desktop\LisanslamaAlgoritması\Lisans\obj\Pro\Lisans.dll
+C:\Users\JMTech\Desktop\LisanslamaAlgoritması\Lisans\obj\Pro\Lisans.pdb

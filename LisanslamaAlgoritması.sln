@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LisanslamaAlgoritması", "LisanslamaAlgoritması\LisanslamaAlgoritması.csproj", "{05ABB8F2-2F9B-4239-BF88-AD1F7B9FCA20}"
+	ProjectSection(ProjectDependencies) = postProject
+		{C586AEC6-40C3-41EF-AF49-2797E6851B38} = {C586AEC6-40C3-41EF-AF49-2797E6851B38}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lisans", "Lisans\Lisans.csproj", "{C586AEC6-40C3-41EF-AF49-2797E6851B38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Pro|Any CPU = Pro|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05ABB8F2-2F9B-4239-BF88-AD1F7B9FCA20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05ABB8F2-2F9B-4239-BF88-AD1F7B9FCA20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05ABB8F2-2F9B-4239-BF88-AD1F7B9FCA20}.Pro|Any CPU.ActiveCfg = Pro|Any CPU
+		{05ABB8F2-2F9B-4239-BF88-AD1F7B9FCA20}.Pro|Any CPU.Build.0 = Pro|Any CPU
+		{05ABB8F2-2F9B-4239-BF88-AD1F7B9FCA20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05ABB8F2-2F9B-4239-BF88-AD1F7B9FCA20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C586AEC6-40C3-41EF-AF49-2797E6851B38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C586AEC6-40C3-41EF-AF49-2797E6851B38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C586AEC6-40C3-41EF-AF49-2797E6851B38}.Pro|Any CPU.ActiveCfg = Pro|Any CPU
+		{C586AEC6-40C3-41EF-AF49-2797E6851B38}.Pro|Any CPU.Build.0 = Pro|Any CPU
+		{C586AEC6-40C3-41EF-AF49-2797E6851B38}.Pro|Any CPU.Deploy.0 = Pro|Any CPU
+		{C586AEC6-40C3-41EF-AF49-2797E6851B38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C586AEC6-40C3-41EF-AF49-2797E6851B38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
